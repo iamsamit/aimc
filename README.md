@@ -1,0 +1,4 @@
+aimc
+====
+
+AIMC Mobile Project
